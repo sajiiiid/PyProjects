@@ -79,4 +79,3 @@ print(t2 - t1)
 #~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.
 print("~."*20); printVals(V) #print(*sorted(V.items(), key=lambda x:x[0]),sep='\t', end="\n"*7)         
 print("~."*20); printPolicy(optPolicy)
-
